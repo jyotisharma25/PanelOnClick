@@ -6,6 +6,9 @@ This project is a SharePoint Framework web part that demonstrates how to create 
 
 ![Alt text](image.png)
 
+![image](https://github.com/jyotisharma25/PanelOnClick/assets/17545754/fdfdbe38-6ac0-41db-b1f3-aa759bef43a5)
+
+
 ## Used SharePoint Framework Version
 
 ![version](https://img.shields.io/badge/version-1.17.4-green.svg)
